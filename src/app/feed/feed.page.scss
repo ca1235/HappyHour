@@ -7,11 +7,30 @@
     src: url(../../assets/font/Poppins/Poppins-Light.ttf)format("truetype");
   }
 
+.hhlogo{
+    float: left;
+    position: relative;
+    margin: 10px 15px 15px 10px;
+  }
+
+.menu{
+    float: left;
+    position: relative;
+    margin: 10px 15px 15px 10px;
+  }
 
 .p1 {
     box-sizing: border-box;
     margin: 0;
     padding: 0;
-    color: white;
+    color: black;
     font-family: 'Poppins', 'Poppins-Black', serif;
+  }
+
+  .searchbar_css{
+      size: 15%;
+  }
+
+  .menu-outline{ 
+      float: left;
   }
